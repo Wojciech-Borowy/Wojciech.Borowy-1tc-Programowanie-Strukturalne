@@ -5,7 +5,7 @@ using namespace std;
 int main() {
     
     int liczba;
-    
+    sasas
     char litera = 'b';//98+96 = T
 
     for (int i = 1; i <= 26; i++) {
