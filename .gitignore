@@ -1,0 +1,10 @@
+# Ignoruj cały katalog ustawień VS Code
+.vscode/
+
+# Ignoruj pliki wykonywalne i binarne kompilacji
+*.exe
+*.obj
+*.ilk
+
+# Ignoruj pliki bazy danych debugowania (zrzuty pamięci i symbole)
+*.pdb
