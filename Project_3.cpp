@@ -17,7 +17,7 @@ int main() {
         if (fr_answer >= 0)
             cout << "Franek powiedzial ze " <<i<<" pod num " << fr_answer <<endl;
         else
-            cout <<"Franek nie znalazł" << i << endl;
+            cout <<"Franek nie znalazl " << i << endl;
     }
     return 0;
 }
